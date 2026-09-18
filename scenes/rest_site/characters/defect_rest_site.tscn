@@ -1,0 +1,182 @@
+[gd_scene load_steps=5 format=3 uid="uid://cavy2ics1exgf"]
+
+[ext_resource type="Script" uid="uid://bjailapueeqsl" path="res://src/Core/Nodes/RestSite/NRestSiteCharacter.cs" id="1_83lsc"]
+[ext_resource type="SpineSkeletonDataResource" uid="uid://dpb7stwlllcxx" path="res://defect/animations/rest_site/rest_site_defect_skel_data.tres" id="2_rk5wk"]
+[ext_resource type="PackedScene" uid="uid://bgy88bk44xxvk" path="res://scenes/ui/selection_reticle.tscn" id="3_6yex7"]
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_ut4f4"]
+
+[node name="DefectRestSite" type="Node2D"]
+position = Vector2(-2, 42)
+scale = Vector2(0.760006, 0.760006)
+script = ExtResource("1_83lsc")
+
+[node name="SpineSprite" type="SpineSprite" parent="."]
+skeleton_data_res = ExtResource("2_rk5wk")
+preview_skin = "Default"
+preview_animation = "glory_loop"
+preview_frame = false
+preview_time = 0.0
+position = Vector2(18.420908, 361.83926)
+scale = Vector2(0.6, 0.6)
+
+[node name="_SpineMesh2D_25681" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25682" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25683" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25684" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25685" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25686" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25687" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25688" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25689" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25690" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25691" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25692" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25693" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25694" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="_SpineMesh2D_25695" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39917" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39918" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39919" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39920" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39921" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39922" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39923" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39924" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39925" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39926" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39927" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39928" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39929" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39930" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="@SpineMesh2D@39931" type="SpineMesh2D" parent="SpineSprite"]
+show_behind_parent = true
+material = SubResource("CanvasItemMaterial_ut4f4")
+
+[node name="ControlRoot" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_left = 30.186
+offset_top = -99.5176
+offset_right = 30.186
+offset_bottom = -99.5176
+
+[node name="SelectionReticle" parent="ControlRoot" instance=ExtResource("3_6yex7")]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = -337.0
+offset_top = -289.0
+offset_right = 341.0
+offset_bottom = 409.0
+
+[node name="Hitbox" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_left = -296.0
+offset_top = -278.0
+offset_right = 333.0
+offset_bottom = 382.0
+pivot_offset = Vector2(296, 415.948)
+
+[node name="ThoughtBubbleRight" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_left = 143.497
+offset_top = -278.111
+offset_right = 143.497
+offset_bottom = -278.111
+
+[node name="ThoughtBubbleLeft" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_left = -194.658
+offset_top = -259.69
+offset_right = -194.658
+offset_bottom = -259.69

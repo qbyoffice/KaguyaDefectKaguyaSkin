@@ -1,0 +1,12 @@
+restsite_defect.png
+	size: 863, 2320
+	filter: Linear, Linear
+shadow
+	bounds: 1, 2178, 664, 141
+	offsets: 10, 8, 684, 157
+wizard5
+	bounds: 1, 1, 849, 1092
+	offsets: 360, 114, 1500, 1500
+wizard6
+	bounds: 1, 1094, 861, 1083
+	offsets: 360, 132, 1500, 1500

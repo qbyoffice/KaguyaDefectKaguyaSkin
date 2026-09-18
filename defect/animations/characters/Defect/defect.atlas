@@ -1,0 +1,77 @@
+defect.png
+	size: 3215, 7875
+	filter: Linear, Linear
+shadow
+	bounds: 1, 7733, 664, 141
+	offsets: 10, 8, 684, 157
+wizard1
+	bounds: 2136, 3572, 684, 1122
+	offsets: 339, 114, 1500, 1500
+wizard10
+	bounds: 1818, 4695, 762, 1023
+	offsets: 324, 141, 1500, 1500
+wizard11
+	bounds: 1, 5424, 999, 1089
+	offsets: 312, 132, 1500, 1500
+wizard12
+	bounds: 902, 6797, 933, 1077
+	offsets: 306, 102, 1500, 1500
+wizard13
+	bounds: 941, 2142, 897, 1113
+	offsets: 348, 99, 1500, 1500
+wizard14
+	bounds: 1932, 1313, 696, 1110
+	offsets: 336, 132, 1500, 1500
+wizard15
+	bounds: 1836, 6914, 777, 960
+	offsets: 315, 207, 1500, 1500
+wizard16
+	bounds: 953, 1130, 978, 1011
+	offsets: 225, 150, 1500, 1500
+wizard17
+	bounds: 1, 3256, 1041, 1029
+	offsets: 189, 150, 1500, 1500
+	rotate: 90
+wizard18
+	bounds: 2524, 2443, 660, 1128
+	offsets: 354, 96, 1500, 1500
+wizard19
+	bounds: 2578, 196, 636, 1116
+	offsets: 381, 99, 1500, 1500
+wizard2
+	bounds: 1839, 2424, 684, 1131
+	offsets: 336, 111, 1500, 1500
+wizard20
+	bounds: 1031, 3556, 774, 1104
+	offsets: 318, 126, 1500, 1500
+	rotate: 90
+wizard21
+	bounds: 1, 2139, 939, 1116
+	offsets: 225, 123, 1500, 1500
+wizard22
+	bounds: 1, 4298, 966, 1125
+	offsets: 222, 123, 1500, 1500
+wizard3
+	bounds: 1001, 5725, 804, 1071
+	offsets: 231, 135, 1500, 1500
+wizard4
+	bounds: 1806, 5719, 792, 1077
+	offsets: 243, 132, 1500, 1500
+wizard5
+	bounds: 968, 4331, 849, 1092
+	offsets: 360, 114, 1500, 1500
+wizard6
+	bounds: 953, 46, 861, 1083
+	offsets: 360, 132, 1500, 1500
+wizard7
+	bounds: 1, 1, 951, 1068
+	offsets: 213, 126, 1500, 1500
+wizard7_1
+	bounds: 1, 1070, 951, 1068
+	offsets: 213, 126, 1500, 1500
+wizard8
+	bounds: 1, 6514, 900, 1218
+	offsets: 240, 117, 1500, 1500
+wizard9
+	bounds: 1815, 76, 762, 1053
+	offsets: 342, 123, 1500, 1500

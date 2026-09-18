@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://fer4osrhbg60"]
+
+[ext_resource type="Script" uid="uid://bq1qvp30j0leu" path="res://src/Core/Nodes/Screens/Shops/NMerchantCharacter.cs" id="1_dek04"]
+[ext_resource type="SpineSkeletonDataResource" uid="uid://bschn0pgky0hd" path="res://defect/animations/merchant/defect_merchant_skel_data.tres" id="2_dek04"]
+
+[node name="DefectMerchant" type="Node2D"]
+script = ExtResource("1_dek04")
+
+[node name="SpineSprite" type="SpineSprite" parent="."]
+skeleton_data_res = ExtResource("2_dek04")
+preview_skin = "Default"
+preview_animation = "relaxed_loop"
+preview_frame = false
+preview_time = 5.4
+scale = Vector2(0.23, 0.23)
