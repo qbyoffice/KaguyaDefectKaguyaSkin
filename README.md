@@ -1,7 +1,27 @@
-# SlaytheSpire2-CustomCardDeckMod
+# KaguyaDefectKaguyaSkin
 
-[官方](https://gitlab.com/megacrit/sts2/example-mod/-/wikis/home)
+> 狐老板进塔！！！
 
-推荐使用[BaseLib-StS2](https://github.com/Alchyr/BaseLib-StS2)
+## 美术组
+- 原画：白宵燿夜（Shirayoi=Kaguya）
+- 动画：AOShiRo
 
-[Godot Engine](https://github.com/godotengine/godot)
+## 程序组
+- 程序协力：AOShiRo
+- 
+## 下载与获取
+
+本 Mod 为简易制作的更新过渡作品，目前我们**可能不会发布到创意工坊**。
+
+- **一群**：`1102564192`
+- **二群**（已满）：`1107740606`
+- **三群**（已满）：`1058660873`
+- **四群**：`1124605921`
+
+> 若您希望加入，可自行创建新的千人大群，并邀请我进群管理。  
+> 我将在新群中发布 Mod 文件及后续更新。
+
+此外，您也可以加入我们的 Discord 频道（非活跃）：
+
+- **Discord**：`https://discord.gg/hn68Xf7gB
+
